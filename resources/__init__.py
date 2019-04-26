@@ -1,0 +1,5 @@
+from resources.player_by_name_resource import PlayerByNameResource
+from resources.players_by_nationality_resource import PlayersByNationalityResource
+from resources.players_by_club_resource import PlayersByClubResource
+from resources.countries_resource import NationalityResource
+from resources.clubs_resource import ClubsResource
